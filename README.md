@@ -1,6 +1,6 @@
 # Risk Analysis of Kyivstar (NASDAQ: KYIV)
 
-## 📌 Project Overview
+## Project Overview
 Kyivstar was listed on NASDAQ in August 2025, meaning there is very limited historical data available.  
 To estimate its potential risk profile, this project uses **Value at Risk (VaR)** and **Expected Shortfall (ES)** methods, both historical and Monte Carlo, with **VEON** (Kyivstar’s parent company) as a proxy for volatility.
 
@@ -8,7 +8,7 @@ The main question: **Should I invest in Kyivstar?**
 
 ---
 
-## 🛠 Methods
+## Methods
 **Data Collection**
    - Stock price data from Yahoo Finance for KYIV and VEON.
    - Timeframe: from August 15, 2025 to present.
