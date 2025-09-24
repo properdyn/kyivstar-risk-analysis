@@ -44,3 +44,9 @@ Given the lack of historical data and uncertainty around assumptions, the simula
 At this stage, **investing in KYIV appears highly speculative**.
 
 ---
+
+## Update - Post-Listing Risk Confirmation
+![Kyivstar's stock performance on September 23rd](data_1.png)
+The stock performance of Ukrainian telecom operator Kyivstar demonstrates a pronounced sensitivity to the geopolitical situation in the region. This correlation was evident on September 23rd, when the company's share price rose 8.6% following constructive talks between Presidents Zelensky and Trump. Conversely, Kyivstar's initial public offering on the Nasdaq coincided with U.S.-Russia peace talks, during which its shares fell over 9% in early trading, highlighting investor wariness amid geopolitical uncertainty [(Reuters)](https://www.reuters.com/business/media-telecom/ukraines-kyivstar-lists-new-york-peace-talks-unfold-alaska-2025-08-15/?utm_source=chatgpt.com).
+
+This volatility underscores how the ongoing war and political instability continue to deter risk-averse foreign investors, creating a high-risk environment [(AIvest)](https://www.ainvest.com/news/kyivstar-nasdaq-listing-high-risk-high-reward-play-ukraine-economic-recovery-2509/?utm_source=chatgpt.com). The critical investment question, therefore, is whether the potential reward of a post-war recovery justifies the current risk. Notably, the investment firm Rothschild & Co. has issued a "Buy" rating for Kyivstar, suggesting a belief in its long-term value proposition once stability returns [Investing.com](https://www.investing.com/news/analyst-ratings/rothschild-redburn-initiates-kyivstar-group-stock-with-buy-rating-93CH-4238067?utm_source=chatgpt.com).
